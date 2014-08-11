@@ -1,0 +1,30 @@
+PODS:
+  - CMDQueryStringSerialization (0.3.1):
+    - ISO8601
+  - ISO8601 (0.1.1)
+  - ReactiveCocoa (2.3.1):
+    - ReactiveCocoa/UI
+  - ReactiveCocoa/Core (2.3.1):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.3.1)
+  - ReactiveCocoa/UI (2.3.1):
+    - ReactiveCocoa/Core
+  - SAMCache (0.3.0)
+  - SimpleAuth/Core (0.3.2):
+    - CMDQueryStringSerialization
+    - ReactiveCocoa
+  - SimpleAuth/Instagram (0.3.2):
+    - SimpleAuth/Core
+
+DEPENDENCIES:
+  - SAMCache
+  - SimpleAuth/Instagram
+
+SPEC CHECKSUMS:
+  CMDQueryStringSerialization: 96f05d3225b6a0f6b7445a308c9e50bf84a5ba13
+  ISO8601: a6afce5fbe854024802367c814fac4aa8d3586f9
+  ReactiveCocoa: dca75777b9d18990c8714a3a6f2149f29b4d1462
+  SAMCache: ab96161f1938a85b0fd426958fc7f36e29a9fe27
+  SimpleAuth: ae531fc2986b34e6fb6975885b0e42cf86bcc918
+
+COCOAPODS: 0.33.1

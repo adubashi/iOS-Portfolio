@@ -1,0 +1,5 @@
+#include "Pods-SimpleAuth.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/SimpleAuth" "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/CMDQueryStringSerialization" "${PODS_ROOT}/Headers/ISO8601" "${PODS_ROOT}/Headers/ReactiveCocoa" "${PODS_ROOT}/Headers/ReactiveCocoa/ReactiveCocoa" "${PODS_ROOT}/Headers/SAMCache" "${PODS_ROOT}/Headers/SimpleAuth"
+OTHER_LDFLAGS = -ObjC ${PODS_SIMPLEAUTH_OTHER_LDFLAGS}
+PODS_ROOT = ${SRCROOT}

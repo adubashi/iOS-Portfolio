@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>70F7A53F-8DC5-4B51-8891-4CE6936B5505</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Photo Bombers</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>977A2B58-A66C-4253-A8EF-0989C5617DE3</key>
+		<string>ssh://github.com/treehouse-island/ios-projects.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Photo Bombers/Photo Bombers.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>977A2B58-A66C-4253-A8EF-0989C5617DE3</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/treehouse-island/ios-projects.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>977A2B58-A66C-4253-A8EF-0989C5617DE3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>977A2B58-A66C-4253-A8EF-0989C5617DE3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-projects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
